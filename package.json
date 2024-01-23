@@ -1,0 +1,12 @@
+{
+  "name": "file-sherer",
+  "version": "1.0.0",
+  "description": "同一LAN内でファイルを共有するためのツールです。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "node index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
